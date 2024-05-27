@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Java
 
-This [Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
+This [Data Structures and Algorithms In Java](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
@@ -12,7 +12,7 @@ This [Data Structures and Algorithms In Java](http://coursegalaxy.com/course/dat
 
 ### Courses by [Deepali Srivastava](https://www.udemy.com/user/deepalisrivastava/)
 
-[![data-structures- and-algorithms-in-java](https://user-images.githubusercontent.com/98641125/153196280-c2028f4b-d27b-432d-ad5a-9b04be2a3717.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-java/?couponCode=GITHUBSTUDENT)
+[![data-structures- and-algorithms-in-java](https://user-images.githubusercontent.com/98641125/153196280-c2028f4b-d27b-432d-ad5a-9b04be2a3717.png)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50)
 [![data-structures- and-algorithms-in-java-2](https://user-images.githubusercontent.com/98641125/153196347-23003dc0-55b0-4315-8e52-425c51b2b5c4.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-java-2/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-python](https://user-images.githubusercontent.com/98641125/153196027-592d0307-5130-444f-8527-802634b5cc1e.png)]( https://www.udemy.com/course/data-structures-algorithms-in-python/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-c-plus-plus](https://user-images.githubusercontent.com/98641125/153196522-2412c993-1055-4322-8487-4133537566c9.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-plus-plus/?couponCode=GITHUBSTUDENT)
