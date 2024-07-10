@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in Java
+# Data Structures and Algorithms ( DSA ) in Java
 
 This [Data Structures and Algorithms In Java](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
 
