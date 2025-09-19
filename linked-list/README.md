@@ -2,7 +2,7 @@
 
 This repository is for the students of my online course available on Udemy and CourseGalaxy. It contains the source code of all the programs used in the course. Students can explore our book [Comprehensive Data Structures and Algorithms In Java](https://www.amazon.in/dp/B0FRFSGB8C) in detail for understanding all concepts and implementation.
 
-[![comprehensive-data-structures-algorithms-java](https://github.com/user-attachments/assets/089277dd-c7d1-4ad8-b634-f2ce65a6dd30)](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
+[![comprehensive-data-structures-algorithms-java](https://github.com/user-attachments/assets/089277dd-c7d1-4ad8-b634-f2ce65a6dd30)](https://www.amazon.in/dp/B0FRFSGB8C)
 
 ### About the Course
  * Instructor - Deepali Srivastava, Author of [Comprehensive Data Structures and Algorithms In Java](https://www.amazon.in/dp/B0FRFSGB8C)
