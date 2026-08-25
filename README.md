@@ -2,8 +2,6 @@
 
 This repository is for the students of my online course available on Udemy and CourseGalaxy. It contains the source code of all the programs used in the course. Students can explore our book [Comprehensive Data Structures and Algorithms In Java](https://www.amazon.in/dp/B0FRFSGB8C) in detail for understanding all concepts and implementation.
 
-[![comprehensive-data-structures-algorithms-java](https://github.com/user-attachments/assets/089277dd-c7d1-4ad8-b634-f2ce65a6dd30)](https://www.amazon.in/dp/B0FRFSGB8C)
-
 ### About the Course
  * Instructor - Deepali Srivastava, Author of [Comprehensive Data Structures and Algorithms In Java](https://www.amazon.in/dp/B0FRFSGB8C)
  * Thoroughly detailed course with complete working programs
@@ -19,6 +17,10 @@ This repository is for the students of my online course available on Udemy and C
 [![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=GITHUB50)
 [![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
 [![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50)
+
+### Recommended Book
+
+[![comprehensive-data-structures-algorithms-java](https://github.com/user-attachments/assets/089277dd-c7d1-4ad8-b634-f2ce65a6dd30)](https://www.amazon.in/dp/B0FRFSGB8C)
 
 <!---
 [![data-structures- and-algorithms-in-java](https://user-images.githubusercontent.com/98641125/153196280-c2028f4b-d27b-432d-ad5a-9b04be2a3717.png)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50)
